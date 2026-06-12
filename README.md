@@ -9,7 +9,7 @@ Real-time API data streaming pipeline using Kafka, Spark, and Airflow for orches
 4. Spark consumes and processes the streaming data.
 5. Cassandra stores the processed records for querying and analysis.
 
-<img src="image.png" width="300" alt="ETL Pipeline Architecture">
+<img src="image.png" width="600" alt="ETL Pipeline Architecture">
 
 ### Run the Project
 
